@@ -15,7 +15,11 @@ body {
   font-size: 1.6rem;
   text-align: center;
   background: var(--background);
-  max-height: 100vh;
+  max-width: 1280px;
+  margin-inline: auto;
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
 }
 img {
   max-width: 100%;
@@ -30,7 +34,7 @@ a {
 }
 .page {
   padding: 7rem 9.8rem 0;
-  margin-bottom: 15.7rem;
+  height: 100%;
 }
 nav {
   display: flex;
@@ -77,6 +81,7 @@ footer {
   font-size: 1.4rem;
   line-height: 2.8rem;
   color: var(--primary-text);
+  padding-bottom: 2rem;
 }
 #padlock {
   position: fixed;
