@@ -4,7 +4,7 @@
 Desafio proposto durante o Stage 02 da trilha Explorer da Rocketseat.
 Nesse desafio reproduzimos o layout disponibilizado no Figma.
 
-<a href="https://araujodai.github.io/Stage02_RocketSect/">Visualizar publicação</a>
+<a href="https://araujodai.github.io/Stage02_RocketSect/" target="_blank">Visualizar publicação</a>
 
 ## Techs
 
